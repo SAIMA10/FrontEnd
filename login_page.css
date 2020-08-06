@@ -1,0 +1,102 @@
+/*body 
+{
+    background-color: burlywood;
+}
+
+a:visited
+{
+    color: darkturquoise;
+}
+h1
+{
+    text-align: center;
+    background-color: cadetblue;
+    color:white;
+}
+
+p
+{
+    border: 1px solid red;
+    padding: 20px;
+    margin: 20px;
+    color: cyan;
+    text-align: center;
+    font-style: oblique;
+    font-family: Haettenschweiler;
+    font-weight: lighter;
+}
+table, td, th
+{
+    margin: 15px;
+    color:white;
+    background-color: black;
+    border: 1px solid white;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table tr:nth-child(even)
+{
+    background-color: deeppink;
+}
+
+td, th
+{
+    text-align: center;
+    padding: 10px;
+}
+
+div
+{
+    color: black;
+    background-color: yellow;
+}
+
+span
+{
+    color: white;
+}*/
+
+body
+{
+    background-color: #3AAFA9;
+    margin: 20px;
+}
+h1
+{
+    border-style: outset;
+    border-width: 5px;
+    border-color:#2b7a78 ;
+    text-align: center;
+    letter-spacing: 1px;
+    font-family: 'Bebas Neue';
+    font-size: 50px;
+    background-color:#17252A;
+    color:#DEF2F1;
+}
+
+h2
+{
+    border-style: outset;
+    border-width: 5px;
+    border-color:#2b7a78;
+    background-color:#17252A;
+    text-align: center;
+    font-family: 'Arsenal';
+    font-size: 25px;
+    color:#DEF2F1;
+}
+
+#form1
+{
+    text-align: center;
+    letter-spacing: 0.5px;
+    border-style: outset;
+    border-width: 5px;
+    border-color: #7dd6d3;
+    padding: 15px;
+    font-family: 'Bebas Neue';
+    font-size: 15px;
+    background-color:#DEF2F1;
+}
+
