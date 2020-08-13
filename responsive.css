@@ -1,0 +1,43 @@
+/*.row
+{
+    background-color: lightcyan;
+    color: dimgrey;
+    font-size: small;
+    font-weight: lighter;
+}
+
+.container
+{
+    background-color: lightgray;
+    color: midnightblue;
+    font-family: 'Bebas Neue';
+    font-weight: normal;
+}
+
+.container-fluid
+{
+    background-color: lightgray;
+    color: midnightblue;
+    font-family: 'Bebas Neue';
+    font-weight: normal;
+}*/
+
+html,body
+{
+    max-width: 100%;
+    overflow-x:hidden;
+}
+
+textarea
+{
+    resize: none;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
